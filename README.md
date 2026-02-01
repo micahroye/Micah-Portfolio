@@ -5,7 +5,7 @@
 UC San Diego | Political Science (Data Analytics) + Urban Studies & Planning  
 Interests: climate resilience, blue-green infrastructure, planning + policy implementation, community-engaged research, energy infrastructure
 
-**Links:** [LinkedIn](YOUR_LINK) • [Resume (PDF)](YOUR_LINK) • [Email](mailto: mroye@ucsd.edu)
+**Links:** [LinkedIn](YOUR_LINK) • [Resume (PDF)](YOUR_LINK) • [Email](mailto:mroye@ucsd.edu)
 
 ---
 
