@@ -10,13 +10,13 @@ Interests: climate resilience, blue-green infrastructure, planning + policy impl
 ## Featured Projects
 
 ### 1) EU Energy Transition Discourse (Text-as-Data)
-**Tools:** R (tidyverse, ggplot2), quanteda  
-Mixed-methods pipeline (hand coding → gold labels → supervised model + LLM labeling) to track pro-renewables framing over time.  
-**Outputs:** [Repo](LINK) • [Memo (PDF)](LINK) • [Figures](LINK)
+Tools: R (tidyverse, ggplot2), quanteda  
+Mixed-methods pipeline (hand coding → gold labels → Naive Bayes + LLM labeling) to measure pro-renewables framing in EU energy discourse over time.  
+Outputs: [Repo](https://github.com/micahroye/energy-governance-discourse-text-as-data)
 
 ### 2) San Diego Green Schoolyards GIS Analysis
 **Tools:** ArcGIS Pro / ArcGIS Online  
-Analysis of green schoolyard coverage in San Diego and potential benefits; mapping + recommendations.  
+Analysis of green schoolyard coverage in San Diego and potential benefits; mapping + recommendations. 
 **Outputs:** [StoryMap](LINK) • [Maps](LINK) • [Write-up](LINK)
 
 ### 3) TRELS — Environmental Governance & Climate Resilience (San Diego–Tijuana Bioregion)
