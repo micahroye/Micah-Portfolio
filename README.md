@@ -21,6 +21,11 @@ Mixed-methods pipeline (hand coding → gold labels → supervised model + LLM l
 Analysis of green schoolyard coverage in San Diego and potential benefits; mapping + recommendations.  
 **Outputs:** [StoryMap](LINK) • [Maps](LINK) • [Write-up](LINK)
 
+### 3) TRELS — Environmental Governance & Climate Resilience (San Diego–Tijuana Bioregion)
+**Tools:** policy research & synthesis • stakeholder analysis • public scholarship • (optional) GIS/StoryMaps  
+Multi-method research project on how U.S. environmental policy shifts affect stakeholder capacity for climate resilience in the San Diego–Tijuana bioregion.
+**Outputs:** [Project Hub](LINK) • [Executive Brief (PDF)](LINK) • [Policy Articles](LINK) • [Annotated Bibliography](LINK) 
+**Focus areas:** cross-border governance • implementation constraints • environmental justice • blue-green infrastructure pathways
 ---
 
 ## Additional Work
