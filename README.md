@@ -12,7 +12,7 @@ Interests: climate resilience, blue-green infrastructure, planning + policy impl
 ### 1) EU Energy Transition Discourse (Text-as-Data)
 Tools: R (tidyverse, ggplot2), quanteda  
 Mixed-methods pipeline (hand coding → gold labels → Naive Bayes + LLM labeling) to measure pro-renewables framing in EU energy discourse over time.  
-Outputs: [Repo](https://github.com/micahroye/energy-governance-discourse-text-as-data)
+Outputs: [Project Hub](https://github.com/micahroye/energy-governance-discourse-text-as-data)
 
 ### 2) San Diego Green Schoolyards GIS Analysis
 **Tools:** ArcGIS Pro / ArcGIS Online  
