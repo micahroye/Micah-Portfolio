@@ -1,5 +1,3 @@
-# Micah-Portfolio
-
 # Micah Roye — Portfolio
 
 UC San Diego | Political Science (Data Analytics) + Urban Studies & Planning  
@@ -17,7 +15,7 @@ Mixed-methods pipeline (hand coding → gold labels → supervised model + LLM l
 **Outputs:** [Repo](LINK) • [Memo (PDF)](LINK) • [Figures](LINK)
 
 ### 2) San Diego Green Schoolyards GIS Analysis
-**Tools**  ArcGIS Pro / ArcGIS Online  
+**Tools:** ArcGIS Pro / ArcGIS Online  
 Analysis of green schoolyard coverage in San Diego and potential benefits; mapping + recommendations.  
 **Outputs:** [StoryMap](LINK) • [Maps](LINK) • [Write-up](LINK)
 
@@ -26,11 +24,9 @@ Analysis of green schoolyard coverage in San Diego and potential benefits; mappi
 Multi-method research project on how U.S. environmental policy shifts affect stakeholder capacity for climate resilience in the San Diego–Tijuana bioregion.  
 **Outputs:** [Project Hub](https://github.com/micahroye/trels-sd-tijuana-environmental-governance)  
 **Focus areas:** cross-border governance • implementation constraints • environmental justice • blue-green infrastructure pathways
----
 
 ## Additional Work
 - Sustainability programming + engagement (UCSD Student Sustainability Collective)
 - Climate governance research (TRELS / Bioregional Center)
 - Community education support (UCSD Center on Global Justice / EarthLab)
 
-> Note: Some work products are not publicly shareable; where needed I provide sanitized case studies.
